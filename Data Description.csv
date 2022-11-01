@@ -1,0 +1,20 @@
+Data, Description
+Model,4WD/4X4 = Four-wheel drive
+Model,AWD = All-wheel drive
+Model,FFV = Flexible-fuel vehicle
+Model,SWB = Short wheelbase
+Model,LWB = Long wheelbase
+Model,EWB = Extended wheelbase
+Transmission,A = automatic
+Transmission,AM = automated manual
+Transmission,AS = automatic with select shift
+Transmission,AV = continuously variable
+Transmission,M = manual
+Transmission,3 - 10 = Number of gears
+Fuel type,X = regular gasoline
+Fuel type,Z = premium gasoline
+Fuel type,D = diesel
+Fuel type,E = ethanol (E85)
+Fuel type,N = natural gas
+Fuel consumption,City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city & 45% hwy) is shown in L/100 km and in miles per imperial gallon (mpg)
+CO2 emissions,the tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
